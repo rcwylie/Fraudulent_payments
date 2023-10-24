@@ -13,4 +13,7 @@ Sections
 
 refereces 
 https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00573-8
+
 https://www.kaggle.com/code/juanjosmorenogiraldo/bank-fraud-detection-using-gbm#3-%7C-Data-Preprocessing
+
+https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html
