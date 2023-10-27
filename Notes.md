@@ -23,6 +23,8 @@ Information Gain - https://jovian.com/poduguvenu/feature-selection-using-informa
 
 XGBoost and feature selection - https://domino.ai/blog/credit-card-fraud-detection-using-xgboost-smote-and-threshold-moving
 
+ANN Node Optimization - https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-neural-networks-performance-optimization/
+
 thoughts
 maybe need to log transform before scaling
 take the feature selection and use for RF?
