@@ -18,8 +18,12 @@ https://www.kaggle.com/code/juanjosmorenogiraldo/bank-fraud-detection-using-gbm#
 
 https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html
 
+Information Gain - https://jovian.com/poduguvenu/feature-selection-using-information-gain
 
 
+XGBoost and feature selection - https://domino.ai/blog/credit-card-fraud-detection-using-xgboost-smote-and-threshold-moving
 
 thoughts
 maybe need to log transform before scaling
+take the feature selection and use for RF?
+
