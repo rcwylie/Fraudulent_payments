@@ -1,7 +1,7 @@
 # Fraudulent_payments
 
 Overview
-This script serves the purpose of conducting feature selection and comparing various classification models on a pre-processed dataset. The primary objectives of this script are as follows:
+Aim of the project was to build a number of models and select the best performing one for the job. Managed to build a model with an AUC of 0.99 and accuracy of 99.4% which was deemed a success. The primary stages of this script are as follows:
 
 Data Cleaning and Pre-processing: The script starts by cleaning and pre-processing the dataset to ensure data quality and consistency.
 
