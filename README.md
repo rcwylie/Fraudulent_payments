@@ -31,15 +31,16 @@ https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
 
 References:
 
-1. Fraud Classification Priniciples
+1. Banking error rate - https://assets.teradata.com/resourceCenter/downloads/CaseStudies/CaseStudy_EB9821_Danske_Bank_Fights_Fraud.pdf
+2.Fraud Classification Priniciples
 Fraud Detection Methods -https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00573-8
 Fraud Detection Methods -https://www.kaggle.com/code/juanjosmorenogiraldo/bank-fraud-detection-using-gbm#3-%7C-Data-Preprocessing
 Fraud Detection Methods - https://trenton3983.github.io/files/projects/2019-07-19_fraud_detection_python/2019-07-19_fraud_detection_python.html
 
-2. Feature Selection
+4. Feature Selection
 Information Gain Method - https://jovian.com/poduguvenu/feature-selection-using-information-gain
 
-3. Modelling Methods
+5. Modelling Methods
 Random Forest - https://www.kaggle.com/code/hassanamin/credit-card-fraud-detection-using-random-forest#Using-Scikit-learn-to-split-data-into-training-and-testing-sets
 XGBoost and feature selection - https://domino.ai/blog/credit-card-fraud-detection-using-xgboost-smote-and-threshold-moving
 ANN Node Optimization - https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-neural-networks-performance-optimization/
